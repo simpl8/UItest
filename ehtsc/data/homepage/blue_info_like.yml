@@ -1,0 +1,27 @@
+-
+  by: accessibility id
+  locator: 推荐
+  action: click
+-
+  by: accessibility id
+  locator: 今早金融咨询分享
+  action: click
+-
+  by: xpath
+  locator: '//android.webkit.WebView[@content-desc="今早金融咨询分享"]/android.view.View/android.view.View[4]/android.view.View[1]/android.view.View[1]'
+  action: click
+  assertion:
+    sleep: 5
+    by: id
+    locator: com.android.haitong:id/text_title
+    attribute: text
+    assert_info: 登录社区
+-
+  by: id
+  locator: com.android.haitong:id/text_cancel
+  action: click
+-
+  by: accessibility id
+  locator: 客服
+  action: click
+

@@ -1,0 +1,20 @@
+#-
+#  by: id
+#  locator: dlg_tv_agree
+#  action: click
+#-
+#  by: id
+#  locator: com.android.packageinstaller:id/permission_allow_button
+#  action: click
+#-
+#  by: id
+#  locator: com.android.packageinstaller:id/permission_allow_button
+#  action: click
+#-
+#  by: id
+#  locator: item_tv_skip
+#  action: click
+-
+  by: xpath
+  locator: "//android.widget.TextView[@text='首页']"
+  action: click

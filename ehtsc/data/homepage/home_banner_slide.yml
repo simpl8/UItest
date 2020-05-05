@@ -1,0 +1,10 @@
+# 首页广告图片轮播滑动
+-
+  action: TouchAction
+  value:
+    -
+      x_start: 750
+      y_start: 680
+    -
+      x_end: 150
+      y_end: 680

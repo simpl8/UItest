@@ -1,0 +1,10 @@
+-
+  by: accessibility id
+  locator: 要闻
+  action: click
+-
+  assertion:
+    by: accessibility id
+    locator: 0916可转债基金资讯
+    attribute: content-desc
+    assert_info: 0916可转债基金资讯

@@ -1,0 +1,8 @@
+-
+  by: xpath
+  locator: '//android.webkit.WebView[@content-desc="e海通财"]/android.view.View[18]'
+  action: click
+-
+  by: accessibility id
+  locator: 客服
+  action: click

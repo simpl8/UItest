@@ -1,0 +1,28 @@
+-
+  by: accessibility id
+  locator: 专栏
+  action: click
+-
+  assertion:
+    by: accessibility id
+    locator: 大盘解析
+    attribute: content-desc
+    assert_info: 大盘解析
+-
+  assertion:
+    by: accessibility id
+    locator: 深度研究
+    attribute: content-desc
+    assert_info: 深度研究
+-
+  assertion:
+    by: accessibility id
+    locator: 彩虹内参
+    attribute: content-desc
+    assert_info: 彩虹内参
+-
+  assertion:
+    by: accessibility id
+    locator: 港股策略
+    attribute: content-desc
+    assert_info: 港股策略
